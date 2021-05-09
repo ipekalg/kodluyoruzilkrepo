@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Kodluyoruz Eğitiminde oluştur
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/ipekalg/kodluyoruzilkrepo.git
 ```
 
 ## Usage
@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)![Mİ](https://user-images.githubusercontent.com/83504232/117578233-0d820400-b0f6-11eb-9d74-318b92770959.png)
+[MIT](https://choosealicense.com/licenses/mit/)
